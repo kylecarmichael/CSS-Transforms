@@ -81,11 +81,6 @@ hr {
 	transform: scale(1.2);
 }
 
-/* NOTICE: 
-	The content property is custom for each container
-	(lines 210-244)
-*/
-
 .photo-container:hover::before {
 	display: block;
 	position: absolute;
